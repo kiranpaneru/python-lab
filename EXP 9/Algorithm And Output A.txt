@@ -1,0 +1,47 @@
+ALGORITHM
+
+Step 1: Start the program.
+Step 2: Import numpy and pandas packages.
+Step 3: Create a NumPy array and perform basic operations (sum, mean, reshape).
+Step 4: Create a Pandas DataFrame using sample student data.
+Step 5: Display the DataFrame.
+Step 6: Perform basic DataFrame operations:
+- View column data
+- Calculate average marks
+- Filter data based on condition
+Step 7: Print all results.
+Step 8: Stop the program.
+
+
+OUTPUT
+
+--- NUMPY AND PANDAS DEMONSTRATION ---
+
+NumPy Array: [10 20 30 40 50]
+Sum of array: 150
+Mean of array: 30.0
+Reshaped Array:
+ [[10]
+  [20]
+  [30]
+  [40]
+  [50]]
+
+Pandas DataFrame:
+       Name  Age  Marks
+0    Alice   20     85
+1      Bob   21     90
+2  Charlie   22     88
+
+Names Column:
+ 0      Alice
+1        Bob
+2    Charlie
+Name: Name, dtype: object
+
+Average Marks: 87.66666666666667
+
+Students with Marks > 85:
+       Name  Age  Marks
+1      Bob   21     90
+2  Charlie   22     88
