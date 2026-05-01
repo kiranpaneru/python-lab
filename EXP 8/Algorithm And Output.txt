@@ -1,0 +1,24 @@
+ALGORITHM
+
+Step 1: Start the program.
+Step 2: Import the re module.
+Step 3: Define a sample string containing text, numbers, and an email.
+Step 4: Use re.search() to find the first occurrence of a pattern.
+Step 5: Use re.findall() to extract all matching patterns (e.g., numbers).
+Step 6: Use re.match() to check if the string starts with a specific pattern.
+Step 7: Use re.sub() to replace a pattern with another string.
+Step 8: Use re.split() to split the string based on a pattern.
+Step 9: Extract an email pattern using regex.
+Step 10: Print all results.
+Step 11: Stop the program.
+
+
+OUTPUT
+
+--- REGEX DEMONSTRATION ---
+First number found using search(): 12345
+All numbers using findall(): ['12345']
+Match at beginning using match(): Matched
+Text after substitution: Hello, my number is XXXXX and my email is alice@example.com
+Text after split: ['Hello,', 'my', 'number', 'is', '12345', 'and', 'my', 'email', 'is', 'alice@example.com']
+Extracted email: ['alice@example.com']
