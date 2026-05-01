@@ -1,0 +1,24 @@
+ALGORITHM
+
+Step 1: Start the program.
+Step 2: Import pandas and matplotlib.pyplot.
+Step 3: Create a dataset (student marks).
+Step 4: Convert the dataset into a Pandas DataFrame.
+Step 5: Display the DataFrame.
+Step 6: Plot a bar chart using Matplotlib.
+Step 7: Plot a line graph using Matplotlib.
+Step 8: Customize the graphs (title, labels).
+Step 9: Display the plots.
+Step 10: Stop the program.
+
+
+OUTPUT
+
+--- PANDAS AND MATPLOTLIB DEMONSTRATION ---
+
+Student Data:
+       Name  Marks
+0    Alice     85
+1      Bob     90
+2  Charlie     78
+3    David     92
