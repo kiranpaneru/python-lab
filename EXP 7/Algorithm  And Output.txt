@@ -1,0 +1,31 @@
+ALGORITHM
+
+Step 1: Start the program.
+Step 2: Define a class Student with:
+
+attributes: name, age, marks
+a constructor (__init__) to initialize values
+
+Step 3: Add methods to the class:
+
+display() to show student details
+update_marks() to modify marks
+
+Step 4: Create an object of the class.
+Step 5: Call the display() method to show initial details.
+Step 6: Update the student’s marks using a method.
+Step 7: Display updated details.
+Step 8: Demonstrate inheritance by creating a subclass GraduateStudent with an extra attribute.
+Step 9: Create an object of the subclass and display its details.
+Step 10: Stop the program.
+
+
+OUTPUT
+
+--- OOP DEMONSTRATION ---
+Initial Student Details:
+Name: Alice, Age: 20, Marks: 85
+After Updating Marks:
+Name: Alice, Age: 20, Marks: 90
+Graduate Student Details:
+Name: Bob, Age: 24, Marks: 88, Degree: MSc
