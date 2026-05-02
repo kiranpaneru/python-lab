@@ -12,4 +12,7 @@ Open the folder and select the file you want to view or execute (for example, ex
 
 Copy the code or clone this repository to your local machine using an IDE such as VS Code.
 
-Run the script using any standard Python environment or execute it through the terminal.
+Run the script using any standard Python environment or execute it through the terminal .
+
+OR 
+use any online compiler to run it.
